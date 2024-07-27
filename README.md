@@ -1,4 +1,4 @@
-ntroduction: The objective of the project is to predict bike rental demand on an hourly basis using historical usage patterns and weather data. This dataset for this problem was provided by Hadi Fanaee Tork using data from Capital Bikeshare.
+Introduction: The objective of the project is to predict bike rental demand on an hourly basis using historical usage patterns and weather data. This dataset for this problem was provided by Hadi Fanaee Tork using data from Capital Bikeshare.
 
 Importing the Libraries: We import Numpy, Pandas, Scikit Learn,  Matplotlib and os libraries and set the random seed to 42 to ensure repeatability of execution. 
 
